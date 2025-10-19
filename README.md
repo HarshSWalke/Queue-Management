@@ -1,7 +1,3 @@
-Perfect — here’s a **complete and professional README.md** for your GitHub repository of the **SmartQueue – Intelligent Queue Management System** project.
-It’s written in a clean, markdown-friendly structure (ideal for GitHub display), with badges, screenshots section, setup guide, and contribution info.
-
----
 
 ```markdown
 # 🧠 SmartQueue – Intelligent Queue Management System  
